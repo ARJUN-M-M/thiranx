@@ -1,23 +1,24 @@
 Arjun Portfolio
 
-A semantic HTML5 portfolio website built as part of a Web Development Internship Task.
+A responsive portfolio website built for the Web Development Internship.
 
 Features
 
-- Semantic HTML5 Structure
-- Accessibility (WCAG Friendly)
-- ARIA Labels
-- SEO Meta Tags
-- Keyboard Navigable Form
-- Multi-Page Website
+- Semantic HTML5
+- Accessibility Support
+- CSS Grid Layout
+- Flexbox Components
+- Mobile-First Design
+- Responsive Media Queries
+- CSS Variables
+- Light/Dark Theme Toggle
 
 Pages
 
 - Home
 - About
 - Projects
-
+- Contact
 
 Author
-
-Arjun
+Arjun.M.M
